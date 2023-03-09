@@ -92,10 +92,12 @@ experience. Should have a good internet connection to connect with the central d
 
 ***
     
- ## Made 🤍 with
-  - SQL <img src="https://www.vectorlogo.zone/logos/mysql/mysql-icon.svg" width="25px" />           # Relational Database
-  - Java <img src="https://www.vectorlogo.zone/logos/java/java-icon.svg" width="25px" />            # Android application development
-  - ReactJS <img src="https://www.vectorlogo.zone/logos/reactjs/reactjs-icon.svg" width="25px" />   # Front-end development
-  - NodeJS <img src="https://www.vectorlogo.zone/logos/nodejs/nodejs-icon.svg" width="25px" />      # Backend development
+  <h2 align="center">Made 🤍 with</h2>
+ <p align="center">
+  <img src="https://www.vectorlogo.zone/logos/mysql/mysql-icon.svg" width="50px" />          
+ <img src="https://www.vectorlogo.zone/logos/java/java-icon.svg" width="50px" />           
+ <img src="https://www.vectorlogo.zone/logos/reactjs/reactjs-icon.svg" width="50px" />   
+<img src="https://www.vectorlogo.zone/logos/nodejs/nodejs-icon.svg" width="50px" />
+</p>
 
   
